@@ -7,7 +7,7 @@ X-dummy is a tool if it is run it will live in its host until it grows big
 ## Instalations
 ```
 $ pkg update -y && pkg upgrade -y
-$ apt update -y && apt upgrade -y
+$ termux-setup-storage
 $ pkg install git
 $ pkg install python -y
 $ pkg install python-pip
